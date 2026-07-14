@@ -59,7 +59,7 @@ This portfolio demonstrates practical GRC (Governance, Risk & Compliance) and Ri
 - ISO 27001:2022 policy development and Annex A control mapping
 - Risk identification, scoring, and heat map analysis (ISO 27001:2022 (Clause 6.1.2 — Risk Assessment))
 - Gap analysis and remediation planning
-- Compliance frameworks: GDPR, HIPAA, PCI-DSS, PSD2, SOC 2
+- Compliance frameworks: GDPR, HIPAA, SOC 2
 - Stakeholder reporting: executive summaries, compliance scorecards, and visual dashboards
 - Interactive dashboard development (HTML / CSS / JavaScript)
 - Tools: Microsoft Excel, GitHub Pages
